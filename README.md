@@ -7,7 +7,7 @@
 ## 🚀 기술 스택
 - **Backend**: Go, Node.js, Express, MongoDB, Spring Boot
 - **Frontend**: React, HTML5, CSS3, JavaScript
-- **Mobile Development**: Swift (iOS), UIKit, SwiftUI
+- **Mobile Development**: Swift (iOS), SwiftUI
 - **Database**: MySQL, MongoDB
 - **DevOps**: Docker, Azure
 
