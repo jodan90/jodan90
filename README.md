@@ -29,18 +29,14 @@
 ---
 
 ## 🌱 현재 배우고 있는 것
-- Go 언어로 더 많은 백엔드 프로젝트 구축.
-- 네트워크 관리 및 TCP/IP 심화 학습 중.
-- 주식 시장 분석 및 자동화된 거래 시스템 개발.
-
+- **Java**: 객체지향 프로그래밍과 백엔드 개발.
+- **HTML/CSS/JavaScript**: 웹 애플리케이션 디자인 및 인터랙티브한 웹 기능 구현.
+- **Go**: 백엔드 애플리케이션 개발 및 시스템 프로그래밍.
+- **네트워크**: TCP/IP와 네트워크 관리 심화 학습.
 ---
 
 ## 📫 연락 방법
-- **이메일**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [github.com/your-github-username](https://github.com/your-github-username)
+- **이메일**: [ktw080209@naver.com]
+- **GitHub**: [github.com/jodan90]
 
 ---
-
-## ✨ 목표
-- 개발자로서 꾸준히 성장하며, 기술을 통해 세상을 더 나은 곳으로 만드는 것을 목표로 하고 있습니다. 다양한 기술을 배우고, 이를 실생활 문제 해결에 적용하는 것을 좋아합니다. 앞으로도 창의적이고 도전적인 프로젝트를 통해 성장해 나갈 계획입니다!
-
