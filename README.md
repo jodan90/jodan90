@@ -1,4 +1,3 @@
-# 👋 안녕하세요! 저는  고등학생 개발자 입니다
 
 저는 **Gyeongbuk Software High School**에서 학습 중인 열정적인 **개발자**입니다. 주로 **Go**, **JavaScript**, **Node.js**, **React**, **Swift**와 같은 기술의 경험을 쌓고, 다양한 프로젝트를 통해 문제를 해결하고 있습니다
 
